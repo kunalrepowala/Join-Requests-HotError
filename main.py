@@ -78,7 +78,7 @@ async def run_bot() -> None:
 
     # Broadcast: Copy messages from channel -1002374713796 to all tracked users.
     app.add_handler(MessageHandler(
-        filters.Chat(-1002374713796), broadcast_channel_message), group=2)
+        filters.Chat(-1002261795483), broadcast_channel_message), group=2)
 
     await app.run_polling()
 
