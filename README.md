@@ -1,5 +1,5 @@
 # Join-Requests-HotError
-For https://HotErrorJoinBot 
+For https://t.me/HotErrorJoinBot 
 # Feature
 # (1) Broadcasting 
 Broadcasting Through Broadcasting Channel , Usong Copy_Message Method, Inline Also Same, But No Auto Delete, Web Preview, Protect Content In This Broadcasting 
